@@ -1,0 +1,12 @@
+/* Styles par défaut (mode clair) */
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Styles pour le mode sombre */
+  .sombre-mode {
+    background-color: #374061 ;
+    color: #62cdb3;
+  }
+  
